@@ -1,0 +1,1 @@
+from .menu_consola import ejecutar_app
